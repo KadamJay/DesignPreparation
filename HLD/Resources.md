@@ -17,4 +17,8 @@
    - [YouTube Channel](https://www.youtube.com/@SystemDesignInterview)
 
 5. **YouTube Video Tutorial** - A specific video explaining a concept or design in system design.
+
    - [Understanding System Design](https://youtu.be/3loACSxowRU?si=AlSeJ_I69UVxj4De)
+
+6. **Awesome System Design Resources** - Curated List of Core Concepts, Problems and Videos for problems
+   - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
